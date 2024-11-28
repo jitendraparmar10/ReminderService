@@ -18,10 +18,10 @@ module.exports = {
     sendBasicEmail
 }
 
+
 /**
  *  SMTP -> a@b.com
  *  receiver -> d@e.com
  * 
  * from : support@noti.com
- * 
  */
